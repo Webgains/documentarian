@@ -1,5 +1,5 @@
 {
-  "name": "mpociot/documentarian",
+  "name": "webgains/documentarian",
   "description": "",
   "keywords": [],
   "license": "Apache 2",
@@ -7,6 +7,9 @@
     {
       "name": "Marcel Pociot",
       "email": "m.pociot@gmail.com"
+    },
+    {
+      "name": "Webgains"
     }
   ],
   "autoload": {
